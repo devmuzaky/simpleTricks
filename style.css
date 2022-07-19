@@ -1,0 +1,13 @@
+*{
+    cursor: none;
+}
+body{
+    background-color: black;
+}
+#demo-image{
+    width: 60px;
+    height: 60px;
+    position : absolute;
+    left : 100px;
+    top: 20px;
+}
